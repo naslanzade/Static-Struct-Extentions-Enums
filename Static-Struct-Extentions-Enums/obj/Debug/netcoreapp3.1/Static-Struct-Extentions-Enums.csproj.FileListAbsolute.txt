@@ -1,0 +1,17 @@
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.exe
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.deps.json
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.runtimeconfig.dev.json
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.dll
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.pdb
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.dll
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.pdb
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.genruntimeconfig.cache
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\novra\OneDrive\Desktop\Static-Struct-Extentions-Enums\Static-Struct-Extentions-Enums\obj\Debug\netcoreapp3.1\Static-Struct-Extentions-Enums.csproj.CopyComplete
